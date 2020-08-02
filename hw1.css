@@ -1,0 +1,50 @@
+header{
+	background:#80dfff;
+}
+h1{
+	text-transform:uppercase;
+	text-align:center;
+	color:white;
+
+}
+h2{
+	text-transform:uppercase;
+	color:#0000b3;
+
+}
+img {
+	display:none;
+}
+section{
+	box-sizing:border-box;
+	text-align:center;
+	background:#dfff80;
+	width:100%;
+	margin: 100px auto;
+	border: 10px solid yellow;
+	padding: 100px;
+}
+a:link {
+	font-size:20px;
+  color: yellow;
+  background: blue;
+  display:inline-block;
+  text-align:center;
+  width:200px; 
+  
+  border:solid 2px black;
+}
+
+a:visited {
+  color: green;
+  background:yellow;
+}
+
+a:active {
+  color: blue;
+}
+
+a:hover {
+  color: hotpink;
+  background:red;
+}
